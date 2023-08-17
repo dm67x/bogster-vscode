@@ -1,6 +1,8 @@
 {
   "name": "bogster",
   "author": "dm67x",
+  "publisher": "dm67x",
+  "repository": "https://github.com/dm67x/bogster-vscode",
   "displayName": "Bogster",
   "description": "Bogster theme for VSCode",
   "version": "0.0.1",
